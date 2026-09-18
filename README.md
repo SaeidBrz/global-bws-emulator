@@ -4,7 +4,7 @@
 
 **Associated study:** “Exploring Future Blue Water Scarcity Dynamics Across Climate and Water-Demand Scenarios Through a Machine-Learning Emulator.”
 
-**Scope note:** This README documents BWS_emulator_training_prediction_final.py.
+**Scope note:** This README documents BWS_emulator_training_prediction.py.
 
 # 1. Workflow scope
 
